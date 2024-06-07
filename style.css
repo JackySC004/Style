@@ -1,0 +1,24 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px;
+}
+span{
+    color: aqua;
+}
+h2{
+    background-color: rebeccapurple;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+h3{
+    background-color: lightskyblue;
+    text-decoration: underline;
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
+}
